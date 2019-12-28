@@ -1,3 +1,4 @@
+```bash
 #coding=utf-8
 import logging
 import csv
@@ -520,3 +521,4 @@ if __name__ == '__main__':
         f_csv.writerows(contents)
     # modle.DataInit()
 
+```
